@@ -1,0 +1,13 @@
+{
+  "name": "insta-infinite-bot",
+  "version": "1.0.0",
+  "description": "Instagram Sonsuz Döngü Mesaj Botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "instagram-private-api": "^1.45.3"
+  }
+}
